@@ -155,11 +155,11 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #f1c40f;
+  background-color: #380ff1;
 }
 
 #hero input[type='submit']:hover {
-  background-color: orange;
+  background-color: rgb(89, 0, 255);
   transition: background-color 1s;
 }
 
@@ -265,12 +265,12 @@ nav > ul {
 .product > button {
   border: 0;
   margin: 15px 0;
-  background-color: #f1c40f;
+  background-color: #380ff1;
   font-weight: 400;
 }
 
 .product > button:hover {
-  background-color: orange;
+  background-color: rgb(17, 0, 255);
   transition: background-color 1s;
 }
 
